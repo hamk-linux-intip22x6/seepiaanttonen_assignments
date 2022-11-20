@@ -1,0 +1,22 @@
+<html>
+
+    <head>
+	<title>Seepia's text-editors task page</title>
+
+    </head>
+
+
+    <body>
+
+	<h1>Seepia's text-editors task page</h1>
+
+	<a href=index.html><button>Index</button></a>
+	<a href=my-links.html><button>My favourite images/photos</button></a>
+	<a href=my-links.html><button>My favourite links</button></a>
+
+
+	<h2>Personal images/photos</h2>
+
+    </body>
+
+</html>

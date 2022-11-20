@@ -1,0 +1,6 @@
+"index.html" is made using Emacs text editor.
+"images-photos.html" is made using Vim text editor.
+"my-images-photos.html" is made using Vim text editor.
+"web-images-photos.html" is made using Emacs text editor.
+"my-links.html" is made using Micro text editor.
+"my-page-layout.css" is made using Emacs text editor.
